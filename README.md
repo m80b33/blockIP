@@ -1,3 +1,3 @@
 # blockIP
 
-i'm using this app to get ips from file, and add it to Win Firewall block list
+you can use this app to get ips from log file, and add it to Win Firewall block list
